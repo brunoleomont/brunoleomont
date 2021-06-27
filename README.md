@@ -6,7 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Docker   47 mins         ██████████▓░░░░░░░░░░░░░░   43.11 % 
+HTML     32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
+Text     17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+YAML     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
