@@ -6,7 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         47 mins         ████████░░░░░░░░░░░░░░░░░   31.96 % 
+TypeScript   42 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+JSON         34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
+Java         22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
