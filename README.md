@@ -6,11 +6,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 9 mins
-
-Java         1 hr 5 mins     ███████████████████████▓░   94.29 % 
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Java   8 mins          █████████████████████▒░░░   85.88 % 
+HTML   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 <!--END_SECTION:waka-->
 
