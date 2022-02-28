@@ -5,11 +5,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoleomont&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
 ```text
-Java         2 hrs 22 mins   ██████████████████████░░░   88.59 % 
-Dart         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Java         2 hrs 22 mins   ██████████████████████░░░   88.59 %
+Dart         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
