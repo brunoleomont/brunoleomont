@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML    8 mins          ███████████████████████▓░   94.52 %
-Java   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
