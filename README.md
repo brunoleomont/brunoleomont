@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby    21 mins         █████████████████▒░░░░░░░   68.69 %
-Other   9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+Other   9 mins          ███████████████████████▒░   93.98 %
 ```
 
 <!--END_SECTION:waka-->
