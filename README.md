@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other   9 mins          ███████████████████████▒░   93.98 %
+Java    51 mins         ████████████████████░░░░░   79.84 %
+Other   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
 ```
 
 <!--END_SECTION:waka-->
