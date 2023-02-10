@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   1 hr 28 mins    █████████████████████████   99.99 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
