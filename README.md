@@ -7,12 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 32 mins   ██████████████▓░░░░░░░░░░   58.79 %
-Docker       38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-HTML         33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-YAML         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
